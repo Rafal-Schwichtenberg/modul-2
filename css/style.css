@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    font-family:  arial;
+    background-color:palegreen;
+}
+
+h2,h3 { background-color:darkgrey;
+}
+
+h1{text-align: center;
+    color:darkblue;
+    font-size: 40px; 
+}
+
+h2{font-size: 20px;
+color: black;
+}
+
+p{color:brown;
+font-size: 15px;}
+
+.img{height: 50vh;}
